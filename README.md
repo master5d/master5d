@@ -20,6 +20,6 @@ groups form, hold and fall apart; that is what pitch encodes.
 **Day job:** Autonomous Vehicle Operator, Waymo program (Transdev), 1,000+ hours.
 "Almost right" is the dangerous case — with cars and with agents.
 
-Rust · TypeScript · Python · container isolation · Nostr · DSSE/in-toto
+**Built with:** Rust · TypeScript · Python · container isolation · Nostr · DSSE/in-toto
 
 [Profile](https://master5d.github.io) · [LinkedIn](https://www.linkedin.com/in/sashamamaev/)
